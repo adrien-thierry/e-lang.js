@@ -31,7 +31,7 @@ function hSetCookie(cname, cvalue, exdays)
     this.attr = "translate";
     this.default = "en-EN";
     this.path = "../../../js/elang/";
-    this.end = ".lang.js";
+    this.end = ".lang.json";
 	
 	var lcookie = getCookie(this.cookie);
     this.userlang = this.force || lcookie || navigator.language || navigator.userLanguage || this.default;
