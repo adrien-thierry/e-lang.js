@@ -1,0 +1,12 @@
+{
+	"menu_home_lang": "ACCUEIL",
+	"menu_contact_lang": "CONTACT",
+	"login_lang": "Connexion",
+	"title_contact_lang": "Nous contacter",
+	"form_name_lang": "Votre nom",
+	"form_email_lang": "Votre e-mail",
+	"form_subject_lang": "Sujet",
+	"form_message_lang": "Message",
+	"form_send_lang": "ENVOYER",
+	"send_message_lang": "Merci d'avoir pris le temps de nous contacter !"
+}
